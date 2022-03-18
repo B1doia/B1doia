@@ -11,6 +11,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<html>
+  <body>
+    <link rel="stylesheet" href="css/style.css">
 <br />
 💼 Dev Freelancer<br />
 🌱 Cursando Gestão de T.I<br />
@@ -29,8 +32,10 @@
   <br />
   <br />
   
- <divn style="display: inline_block">
-    <h1> Languages</h1> 
+ <div style="display: inline_block">
+   
+  
+  <h1>Languages</h1> 
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
   <img align="center" alt="Lucas-Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg">
@@ -52,9 +57,9 @@
 </div>
   <br/>
   <br/>
-  <h1>Design</h1>
-  <div style="display: inline_block">
-    
+      <h1>Design</h1>
+        
+           
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"> 
   <img align="center" alt="Lucas-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg"> 
   </div>
@@ -68,3 +73,5 @@
   <a href="https://www.instagram.com/bidoiadrummer/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  </body>
+  </html>
